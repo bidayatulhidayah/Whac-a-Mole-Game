@@ -60,6 +60,27 @@
   - Emergency stop button
   - Restart/start button
  
+## Libraries
+
+- [ezButton](https://github.com/ArduinoGetStarted/button) by ArduinoGetStarted.com
+- [LiquidCrystal I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) by Frank de Brabander
+ 
 ## Circuit Diagram
 
+<img src="https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/51cb3a2a02ec8a915eb302fc4cc24be2e532aca6/Image%20and%20Diagram/Circuit%20Diagram.png" alt="Circuit Diagram" width="400" />
+
+
 ## Flow Chart
+
+<img src="https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/51cb3a2a02ec8a915eb302fc4cc24be2e532aca6/Image%20and%20Diagram/Flow%20chart.png" alt="Flow Chart" width="400" />
+
+## Reference Video and Image
+
+- [Demonstration Video](https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/4430c6887ebce76aeb7fcb27ba02e3d036cbf209/Image%20and%20Diagram/Demonstration.mp4)
+
+<img src="https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/4430c6887ebce76aeb7fcb27ba02e3d036cbf209/Image%20and%20Diagram/Front%20view.jpg" alt="Front View" width="400" />
+
+<img src="https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/4430c6887ebce76aeb7fcb27ba02e3d036cbf209/Image%20and%20Diagram/Side%20view.jpg" alt="Side View" width="400" />
+
+<img src="https://github.com/bidayatulhidayah/Whac-a-Mole-Game/blob/4430c6887ebce76aeb7fcb27ba02e3d036cbf209/Image%20and%20Diagram/Backview.jpg" alt="Back View" width="400" />
+
